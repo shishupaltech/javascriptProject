@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.nav-center {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    box-shadow: 2px 2px 9px black;
+}
+.nav-center h4{
+    margin: 23px 23px;
+    font-size: 25px;
+    color: lightblue;
+}
+.nav-center .nav-links{
+    display: flex;
+    flex-direction: row;
+    margin-left: 700px;
+    
+}
+.nav-center .nav-links  li{
+    margin: 2px;
+    margin-top:23px;
+    font-size: 18px;
+    
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cornflowerblue;
+    
+}
+.nav-center .nav-links li a{
+    text-decoration: none;
+
+
+}
+.container{
+    margin: 200px 500px;
+    
+}
+.container h2{
+    background-color: black;
+    color: white;
+    width:550px;
+    height: 100px;
+    text-align:justify;
+    padding: 17px 40px;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.container .btn{
+
+    margin: 12px 200px;
+    width: 150px;
+    height: 45px;
+    border: 2px solid black;
+    color: black;
+    font-weight:100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    cursor: pointer;
+}
