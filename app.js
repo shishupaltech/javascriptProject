@@ -1,4 +1,4 @@
-const color = ["green","red","rgba(133,122,200)","#f15025","rgb(220,20,60)","rgb(178,34,34)","rgb(139,0,0)","lightsalmon","	crimson","	firebrick","gold","orange","yellow","lime","darkgreen","olive","darkolivegreen","cyan","mediumblue","navy","slateblue","magenta","purple","indigo","deeppink","darkslategray","slategray","maroon","brown","chocolate","goldenrod"];
+const color = ["green","red","	saddlebrown","#f15025","rosybrown","azure","darkmagenta","lightsalmon","	crimson","	firebrick","gold","orange","yellow","lime","darkgreen","olive","darkolivegreen","cyan","mediumblue","navy","slateblue","magenta","purple","indigo","deeppink","darkslategray","slategray","maroon","brown","chocolate","goldenrod"];
 
 const btn = document.getElementById("btn");
 const colorm = document.querySelector(".colorm");
